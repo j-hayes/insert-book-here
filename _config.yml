@@ -28,8 +28,8 @@ sass:
 # Other Params
 include:            [ "robots.txt" ]
 exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
-gems:
-  - jekyll-sitemap
+plugins:
+
 
 
 
