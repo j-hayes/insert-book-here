@@ -1,8 +1,10 @@
+
+
 <aside class="logo">
 
 	{% if page.url == '/index.html' or page.url == '/' %}
 		{% assign link = '/about' %}
-		{% assign prompt = 'About the Author' %}
+		{% assign prompt = 'About the Book' %}
 	{% else %}
 		{% assign link = '/' %}
 		{% assign prompt = 'Back to Home' %}
@@ -12,5 +14,7 @@
 		<img src="http://www.gravatar.com/avatar/{{ site.author_gravatar }}.png?s=80" class="gravatar">
 	</a>
 	<span class="logo-prompt">{{ prompt }}</span>
-
+</aside>
+<aside class="logo">
+	Insert Book Title Here
 </aside>

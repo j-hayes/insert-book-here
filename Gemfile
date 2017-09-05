@@ -12,6 +12,8 @@ gem "jekyll", "3.5.2"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 
+gem 'jekyll-compose', group: [:jekyll_plugins] #$ bundle exec jekyll post "My New Post"
+
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
