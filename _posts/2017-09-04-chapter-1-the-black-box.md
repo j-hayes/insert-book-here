@@ -208,7 +208,7 @@ Steven nodded his head several times thinking what to say in response, still a l
 
 <br/>
 
-&quot;Nothing really. It&#39;s all automated. When you are back on Earth, the machine will detect it and rematerialize you. You&#39;ll…&quot;
+&quot;Nothing really. It&#39;s all automated. When you are back on Earth, the machine will detect the gravity and rematerialize you. You&#39;ll…&quot;
 
 <br/>
 
