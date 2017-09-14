@@ -44,11 +44,11 @@ Steven and Addy took their first good hard looks at the inside of the box, still
 
 <br/>
 
-Addy got up with a nod and opened the floor to ceiling locker and inspected the contents on the shelf at eye level. Packages labeled, &quot;food stuff: 1 day complete nutrition,&quot; a book labeled, &quot;Unit 675.78 guide book,&quot; and a laminated sheet of paper titled &quot;Mission Guide.&quot;  In that moment Addy remembered that she was still naked. She looked back at Steven who was lying on the bed, covering his privates with his hands staring straight up at the ceiling above his bed pod.
+Addy got up with a nod and opened the floor to ceiling locker and inspected the contents on the shelf at eye level. Packages labeled, &quot;food stuff: 1 day complete nutrition,&quot; a book labeled, &quot;Unit 675.78 guide book,&quot; and a laminated sheet of paper titled &quot;Mission Guide.&quot;  In that moment, Addy remembered that she was still naked. She looked back at Steven who was lying on the bed, covering his privates with his hands staring straight up at the ceiling above his bed pod.
 
 <br/>
 
-Addy reached into the locker and threw on the pants sitting on the lowest shelf. As she grabbed the shirt to put it on, she noted there was no bra and thought, _guess that comfort isn&#39;t mission critical or they think I am not going to do any running_. She put on the shirt which after was pulled on held her breasts in place comfortably, but it wasn&#39;t skin tight looking. _Well isn&#39;t that a fancy shirt._
+Addy reached into the locker and threw on the pants sitting on the lowest shelf. As she grabbed the shirt to put it on, she noted there was no bra and thought, _I may never have to wear a bra again, small victory for the day_. She put on the shirt which after was pulled on held her breasts in place comfortably, but it wasn&#39;t skin tight looking. _Well isn&#39;t that a fancy shirt._
 
 <br/>
 
