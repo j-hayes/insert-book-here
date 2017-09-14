@@ -1,22 +1,814 @@
----
-layout: null
----
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title }}</title>
-    <description>{{ site.description }}</description>
-    <link>{{ site.baseurl | prepend: site.url }}</link>
-    {% for post in site.posts %}
-      {% unless post.draft %}
+    <title>Insert Book Title Here</title>
+    <description>I am writing a Sci-fi. I am going to write it serially. I hope you enjoy it and welcome your feedbackv</description>
+    <link></link>
+    
+      
         <item>
-          <title>{{ post.title | xml_escape }}</title>
-          <description>{{ post.content | xml_escape }}</description>
-          <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
-          <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-          <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
+          <title>Edits Made So Far</title>
+          <description>&lt;p&gt;#Edits&lt;/p&gt;
+
+&lt;p&gt;During the feedback process I am going to keep track of edits here. They will contain spoilers sometimes so don’t read this if you haven’t read the subsequent chapters. I don’t want people to have to re-read chapters though if things get updated either.&lt;/p&gt;
+
+&lt;h2 id=&quot;chapter-3&quot;&gt;Chapter 3&lt;/h2&gt;
+&lt;p&gt;Removed the line where Addy talks about there not being a bra and how that won’t be comfortable. Updated to “I may never have to wear a bra again, small victory for the day.”&lt;/p&gt;
+
+</description>
+          <pubDate>2017-09-14T00:00:00-05:00</pubDate>
+          <link>/notes/edits-made-so-far</link>
+          <guid isPermaLink="true">/notes/edits-made-so-far</guid>
         </item>
-      {% endunless %}
-    {% endfor %}
+      
+    
+      
+        <item>
+          <title>Chapter 4 - Landed</title>
+          <description>&lt;h1 id=&quot;chapter-4--landed&quot;&gt;Chapter 4 – Landed&lt;/h1&gt;
+
+&lt;p&gt;In unison, the bed pods opened. Addy and Steve sat up slowly, the paralytic still wearing off. They each looked at each other and then their watches. The readout was exactly as they had when they had laid down: Steven's 22.1 above another 22.1, Addy's 31.7 over above another 31.7. They were both confused.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;Did it not work? Did we not go anywhere?&quot; Addy asked Steven not expecting him to have an answer.&lt;/p&gt;
+
+&lt;p&gt;&quot;I don't think so, they likely would have opened the doors and started barking orders at us if we were still on Earth. I feel a deep sense of calm. A calm I haven't felt since childhood. The feeling of not having a commanding officer.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Don't speak so soon. I was definitely told I was in command on this mission. Also didn't you have a mother. You've always had a commanding officer.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;The people who put you in charge have been dead thousands of years. Those orders, as with all other orders given to us by any other man are null and void. They told us we are on our own.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Addy was well aware that she was not in command, that they were a two-person team. It tickled her ego but also stung a bit at how convincing of an argument Steven felt he needed to make.&lt;/p&gt;
+
+&lt;p&gt;&quot;Well then &lt;em&gt;companion&lt;/em&gt;, let's assess our situation.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;You want me to check out what's going on outside?&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;No, let's asses our more immediate situation: this box, provisions, and whatever instructions they left us.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Steven and Addy took their first good hard looks at the inside of the box, still seated in their bed pods. In contrast to the outside of the box, the inside was wall to wall white, with a few nobs and dials and hinges which were painted various primary colors. However, they could both tell that the inside of the machine was made of the same stuff as the outside. The same smoothness and uniformity of color other than the few painted bits gave it away. As Steven was still looking around Addy asked:&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;What's your assessment of the place?&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;I haven't even looked at everything yet.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Well mine is: this is a safe place, a place one can rest, but not a place meant to live in. Let's check the lockers over there for supplies.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;So, it's a base, but not a home–so to speak.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Addy got up with a nod and opened the floor to ceiling locker and inspected the contents on the shelf at eye level. Packages labeled, &quot;food stuff: 1 day complete nutrition,&quot; a book labeled, &quot;Unit 675.78 guide book,&quot; and a laminated sheet of paper titled &quot;Mission Guide.&quot;  In that moment, Addy remembered that she was still naked. She looked back at Steven who was lying on the bed, covering his privates with his hands staring straight up at the ceiling above his bed pod.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Addy reached into the locker and threw on the pants sitting on the lowest shelf. As she grabbed the shirt to put it on, she noted there was no bra and thought, &lt;em&gt;I may never have to wear a bra again, small victory for the day&lt;/em&gt;. She put on the shirt which after was pulled on held her breasts in place comfortably, but it wasn't skin tight looking. &lt;em&gt;Well isn't that a fancy shirt.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;She turned and tried to open the locker by Steven's bed pod, but when she placed her hand on the side where her handle was, the handle wasn't there. She slid her hand up the side and found it a few inches higher than where hers was. She opened the door, grabbed Steven a set of clothing and tossed them to him.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Steven replied with a, &quot;thanks&quot; and slipped into the pants find a similar experience with the pants as Addy had with the shirt.&lt;/p&gt;
+
+&lt;p&gt;&quot;What all is in mine?&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Food, another set of cloths, and a harmonica of all things.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Funny, I don't play the harmonica.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Addy took a deep breath and closed her eyes and the locker.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;But I can learn. Growing up I played the flutes my dad made. If there are still trees left, I can make us some flutes to. Well even if there isn't as long as I can find something I can hollow out by drilling I can make a flute.&quot;&lt;/p&gt;
+
+&lt;p&gt;Addy sat back down on her bed. Steven, now fully clothed, sat up matching her posture.&lt;/p&gt;
+
+&lt;p&gt;&quot;What's our first move?&quot; he asked.&lt;/p&gt;
+
+&lt;p&gt;&quot;I think get a peek at what's going on outside. I feel the need to get out of this box even if it is just for a few moments. Then we get back in here and make a plan.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Shouldn't we at least read the mission guide first?&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;I &lt;em&gt;wrote&lt;/em&gt; the mission guide, I &lt;em&gt;am&lt;/em&gt; the mission guide.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Ha! That was the first joke I've heard you tell.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;That wasn't a joke.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;It was a pun, that's a joke whether you like it or not. Maybe I will rub off on you a little after all.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;A smug look came across Steven's face and Addy shook her head at him softly. &quot;Alright let's go.&quot; Steven said standing up. When his feet hit the floor, he paused and looked down at his feet. Trying to make up for the pause he moved quickly to the front of the box.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;He looked at the several knobs that were on the right-hand side of the door near the latch. The knobs were all in the shape of a small hand making a thumbs-up gesture. Above them read: Oxygen, Temperature, Radiation. Addy walked up behind him and inspected the knobs as well.&lt;/p&gt;
+
+&lt;p&gt;&quot;Okay, based on those knobs we should be safe to go outside.&quot; Steven commented.&lt;/p&gt;
+
+&lt;p&gt;&quot;Well, based on these knobs there is enough oxygen, the temperature and radiation levels are likely within acceptable ranges. That certainly doesn't mean it's safe.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;I'm glad you say that, because that means we get to put on those&quot; he said pointing to the space suit hanging on the wall inches a couple feet or so to their right. &quot;Space suits! How cool!&quot;&lt;/p&gt;
+
+&lt;p&gt;Addy inspected her suit and after a few moments turned to Steven and said, &quot;we should probably read the instru,&quot; she trailed off seeing that Steven was already halfway into his suit and snapping shut the system of clasps on the boots of the suit.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Addy slipped into her suit and put on the helmet which snapped shut automatically with a satisfying click. Steven pointed at the black material that attached the body of the suit to the helmet and asked, &quot;look familiar?&quot;&lt;/p&gt;
+
+&lt;p&gt;Addy gave him a confused look and shook her hand.&lt;/p&gt;
+
+&lt;p&gt;&quot;It's definitely the same stuff the ship's is made of. I don't know what it is exactly, but let's just say someone had to &lt;em&gt;science the fuck out of something to make this stuff&quot;&lt;/em&gt; (he said air quoting). If it wasn't so likely that my life is going to depend on this stuff doing its job consistently, I'd take it apart and figure out what it is.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Interesting, you didn't strike me as the science-e type, more of the subordinate, sometimes competent, soldier.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;You're just projecting what you are comfortable around. They hand-picked us two from all of humanity for this. I bet if you can think of a skill you don't have I have it, and vice-versa&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;We'll have to take a catalog of that at some point.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;If you think that will help.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Steven walked over to the sort of archway that separated the space he and Addy were standing in and the and the area with the bed pods and the lockers. He pawed at the sides of the archway looking for the airlock button he presumed would be there, but did not find one.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;Where is the airlock button?&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;There are some settings on this door handle, other than open and closed.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;What are they?&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Locked, Armed, Ready, Open&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Try turning it to armed.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;She did and the archway behind them closed toward the middle slowly. The pieces snapped together with the same click as their helmets. Steven inspected the archway, which he would now call a wall. He found it to be just like the outside of the ship—completely flush, with no signs of a seam where the two pieces met.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;Looks like they built the airlock to be idiot proof, can't go out unless the inner area is sealed off. We're not exactly trained astronauts, probably a good call on their part,&quot; Steven said with laughter in his voice.&lt;/p&gt;
+
+&lt;p&gt;&quot;I once heard an expression that will stick with me forever, &lt;em&gt;the more fool proof you make things, the more the world will provide you with stronger and stronger idiots.&quot;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;Wasn't that George Carlin?&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;No, he said 'never argue with an idiot, they will drag you down to their level and beat you with experience'&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;You are full of advice for how to deal with idiocy aren't you?&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Well, I did have to prepare for this mission, didn't I?&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Joke number 2! At this rate, I am going to lose count.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Shut up.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The box made two clicks in unison with Addy moving the latch impatiently to open skipping any waiting at the armed state—a move she even found uncharacteristically impatient and non-tactical.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;She pushed the door open and the lights in the box turned off and orange colored dusk light filled the airlock. Addy stepped out and Steve watched as few grains of sand climb their way into the box as she stepped out. The grains were larger than he would have expected. Not quite pebbles but in no way fine.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Addy outside told Steven:&lt;/p&gt;
+
+&lt;p&gt;&quot;Come out, we're in no immediate danger that I can see.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;The worst kind of immediate danger then.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;This was the first time they realized they were speaking through coms in their suits. Everything had sounded so natural while they were in the box that neither took note.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;Okay, coming out.&quot;&lt;/p&gt;
+
+&lt;p&gt;Addy looked back at Steve as he stepped out of the box carefully, &quot;Well I guess we're home. I see a forest of some sort up those hills to the west.&quot;&lt;/p&gt;
+
+&lt;p&gt;Steven gave no response as he looked around.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Addy looked eastward out to where the golden twilight had faded into the black of night. Her heart somehow was at easy. She was on unknown terrain, but her greatest fear was never making it back to Earth. This fear was set at ease by what she was seeing.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;She looked back at Steven again who was looking up at the sky to the north. The scientist words repeated in Stevens mind, &lt;em&gt;the machine will detect the gravity and rematerialize you.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;Okay it's about time we got back in.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Steven surveyed with one last slow spin taking in the surroundings, still not having taken more than two steps out of the box. Addy stepped by him and into the box and waited for him to reenter. She watched as he stepped up to the box, stopped, crouched and jumped. He then reached down and picked up some of the sand and played with his index finger. He let the sand fall out of his hand and looked up at Addy.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;What was that all about?&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;I'll tell you once the box is closed.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Well get in already then.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Steven stepped in and Addy locked the door behind them. The box made its clicking noises and as Addy sent the door latch through its reverse phases. The lights came on accompanied by a whooshing sound of air being sucked out of the airlock and then another pair of clicks followed by another whoosh of air which blew the remaining specks of sand between the fingers of Steven's gloves. In the commotion of the clicking and the swooshing Addy and Steven had not noticed that the divide between the airlock and the bed pod areas had opened.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Addy took off her helmet first and continued her inquiry of Steven's peculiar actions outside, &quot;Ok what had to wait?&quot; feeling a bit impatient with this stranger who she, as yet, did not have a good read on. Not having a read on people was not a condition she found herself in often and was certainly not one she felt comfortable in.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Steven, knowing that there was no safer place for her to react and handle what he was about to say and waiting wouldn't do any good began, &quot;There's no good way to say this, so I'll just say it bluntly. I don't think we are on Earth.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;A panic quickly overtook Addy. Her mind went blank. She felt like her whole body was overheating.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;When she took her next breath, she forced herself to calm down. Her panic attack was so quick that Steven, had he not been paying very close attention, might have missed that anything had happened. Holding back an outburst she asked:&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;How did you come to this conclusion?&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Well umm..&quot; he stammered purposefully, &quot;when we first met, I had uh a very particular reaction, to your.. physique. And well since when we landed, things are a bit less well perky. And believe me it's no fault of yours… The gravity is pulling, harder on your body than what it is used to.&quot;&lt;/p&gt;
+
+&lt;p&gt;A look of annoyance and confusion toggled on Addy's face. &lt;em&gt;He's such a pig. But now that he mentions it, I feel like everything has been a bit sluggish since we woke up. Chalking it up to side effects of the dematerialization and disorientation was stupid. That's not how it works. I should have been exactly the same as when I first laid down in that pod.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;She looked at her feet and bounced on the balls of her feet a little.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;Sorry, I couldn't resist a little joke. You look like you are noticing it now. I just hoped I'd cut the tension a bit.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Maybe leave the jokes to me for a while. Or better yet let's both refrain from jokes when serious matters are the topic of conversation&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;That is a request I will always fail to complete. It's just who I am, it's my coping mechanism I've been told.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Bouncing again she said:&lt;/p&gt;
+
+&lt;p&gt;&quot;I just thought the dematerialization.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;I'm twice as massive as you give or take. I felt it the moment my feet hit the floor. The effect was, magnified so to speak, for me.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Any other signs?&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Didn't the horizon feel a bit far off for an open flat dessert plain.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Yeah, it did.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Anything you notice now that you are aware of the situation.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;The stars were all out of place.&quot;
+&quot;Huh?&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;I looked up back to the east and didn't recognize a single star or constellation.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Both of them racked their brains trying to make sense of the situation.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;So, given all that there are two competing theories now, this is earth and its somehow gained a lot of mass and we've travelled far enough in time that the movement of the galaxy and universe has progressed so much that we don't recognize the night sky or we are on a different planet with perhaps breathable air and what looked like plant life.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Things don't seem to have gone as planned.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Either way I think the doctor's assessment of when we'd land was way off. I can't speak to any of the rest of his intentions because he didn't tell them to me. He said 10404. The stars wouldn't have moved enough by 10404. And if this is another solar system with a life sustaining planet and given and space travel technology of our time we wouldn't have been going fast enough to get here by 10404.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The weight of what he just said hit Steven all at once. He thought that he should be excited to likely be one of the first humans to reach another solar system. All that he thought of was that everything and everyone he had ever known was not only dead but likely dead forgotten and replaced by hundreds of generations of people and ideas.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Addy saw the light and curios demeanor fade from Steven and that worried her. Her experience leading people like him taught her that these kinds of stressful situations were not time for a wandering mind. &lt;em&gt;I need to keep his mind occupied or he is going to start thinking too much about all of this. Thinking too much in these situations can be lethal. He needs a task, a goal. As do I, but his life depends on it. So I guess mine probably does to.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;We've got food enough to stay alive for probably 60 days if we ration carefully. So, our first goal is surveying the area to make sure we are physically safe. Then we see if we can find food we can eat here. Then we can figure out what comes next. We're both in charge of physical security, watch each other's backs. You are in charge of experimenting with the food we find in the forest on the horizon.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Fine,&quot; Steven replied sullenly.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Addy walked over to her cabinet and grabbed a food bar out of her cabinet, opened it and broke it in half. She handed half of it to Steven and said, &quot;Let's go back outside and explore the first alien world humans have ever discovered and then we'll get back to the plan.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Steven took a bite and chewed slowly.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;Can I bring the ship instruction manual? That is also top priority I think. I think the ship has more to offer us than we currently know.&quot;&lt;/p&gt;
+
+&lt;p&gt;She didn't think it was wise to let such an important and valuable asset to their survival go outside of the box but decided that it was worth the risk if it would life Steven's spirit.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;Sure.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Okay then, EVA #2 and documentation reading time. What more could a nerd ask for.&quot;&lt;/p&gt;
+
+</description>
+          <pubDate>2017-09-10T00:00:00-05:00</pubDate>
+          <link>/notes/chapter-4-landed</link>
+          <guid isPermaLink="true">/notes/chapter-4-landed</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Chapter 3 - See You Later Earth</title>
+          <description>&lt;h1 id=&quot;chapter-3--see-you-later-earth&quot;&gt;Chapter 3 – See you later Earth&lt;/h1&gt;
+
+&lt;p&gt;There is not much to say about the next many thousands of years from the perspective of Addy and Steven. They were successfully launched from the makeshift launch pad build out of the husk of an abandoned skyscraper. The government rocket teams were much closer to shooting them down than expected, but that hardly matters.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;In time, they were all but forgotten about except in some archived files of the military “rocket training exercises” and of stories of the day a rocket escaped Earth.&lt;/p&gt;
+</description>
+          <pubDate>2017-09-06T00:00:00-05:00</pubDate>
+          <link>/notes/chapter-3-see-you-later-earth</link>
+          <guid isPermaLink="true">/notes/chapter-3-see-you-later-earth</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Chapter 2 - Companions</title>
+          <description>&lt;h1 id=&quot;chapter-2--companions&quot;&gt;Chapter 2 – Companions&lt;/h1&gt;
+
+&lt;p&gt;&quot;Addy, welcome,&quot; the scientist began. &quot;Your reputation precedes you, so we won't delay with pleasantries and get right down to business.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Thank you,&quot; she replied.&lt;/p&gt;
+
+&lt;p&gt;&quot;This is Steven, he will be your companion on this mission. You'll have plenty of time to get acquainted later. Just know that he is as trustworthy as they come.&quot;&lt;/p&gt;
+
+&lt;p&gt;Steven noticed that the body language and tone of the room shifted from one of attentive work and casual conversation generally directed toward him to one of stiff formality and chain-of-command-type respect and very noticeably directed toward Addy. &lt;em&gt;Now is a time for speaking when spoken to,&lt;/em&gt; he thought.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;This is the machine behind me. We will be ready for the commencement of the mission in,&quot; he paused and looked back at a woman typing at a keyboard behind him and asked, &quot;How long?&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Ten minutes,&quot; she replied.&lt;/p&gt;
+
+&lt;p&gt;&quot;Ten minutes she says. I'd say closer to seven. We can make the final preparations synchronously while the dematerialization is happening.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Fine.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;So, you've been told, more or less, what is going on, but I feel it is necessary to give a bit more detail about what is about to happen to ensure mission success. First, you will be put in to that machine. There are two bed pods, one for each of you. You will lie down and press the black button on your right on the edge of the bed. This will close the bed pod. You will then click the yellow button which will light a LED in your companion's bed pod indicating you are ready to begin.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;When both of you see the green light. Press the red button. This will release a paralytic that will immobilize you to aid in the dematerialization scan. Approximately six seconds later the scans are complete and you will be dematerialized.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;From then timeline isn't important for you or what will happen. However, you will be dematerialized and wake when the deep space part of your journey is over. Your mission will have begun. Instructions on how to use the machine are provided as well as mission guidelines, well more like helpful suggestions are provided.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Both Addy and Steven thought the scientists wording of the details of the instructions was ominous but they didn't feel they had time to have him clarify.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;We will not launch until both of you have consented to mission participation by clicking your black buttons and really committed by pressing the yellow and red ones.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Please take a few minutes to prepare yourself. Make peace with your God or gods if you have them. We will let you know when we are ready. Just to be clear, our blast window is based on our fuel capacity and position of the earth is about 12 seconds, so no fucking around. Get ready or one of my less-prepared-and-skilled-than-you colleagues will be taking your place. Please don't make them go. They will be next to useless on this mission. Our collective scientific knowledge is written to the machine's hard drive so to speak. The AI of the system takes up as much data storage as your taste-buds, so&quot; he trailed off without finishing his thought and walked back to a desk and begun typing at the laptop that sat on top of it.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Prompted by the scientist's suggestion to make peace with God, Steven began to pray.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Our Father… who art in heaven&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Hallowed be thy name.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Thy kingdom come.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Thy will be done&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;on earth as it is in heaven.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Give us this day our daily bread,&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;and forgive us our trespasses,&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;as we forgive those who trespass against us,&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;and lead us not into temptation,&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;but deliver us from evil.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;For thine is the kingdom,&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;and the power, and the glory,&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;for ever and ever.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Heavenly Father, if this not be your will of me make it know to me. These people who have the trust of those I have loved and trusted tell me that this is the only way anyone can change the horrid state we humans have put ourselves in. This seems the right thing to do, but it is, I don't know, not the calling I thought I'd have to rise to. This was not the cross I thought I'd have to bear.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I accept any suffering that is to come to me for the betterment of my fellow man and to leading them closer to you. Use me as your sword to cut down the veil humanity has put up between ourselves and you.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Not that we have many theologians to weigh in on these kinds of things these days but I have often heard it said that dematerialization or teleporting or whatever causes the death of a person because we strip the soul from the body and what comes out after is no longer human, or at least not the one you granted a soul to. I am sorry if my participation in this is a sin. I don't want to die, and I don't want to rip my soul from my body. If it does please welcome me into Love in the next life if it comes to pass this way.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I am so afraid. Afraid for myself and those I love as I leave them behind. I am afraid for my soul. I am afraid for so many things. Give me courage to face the challenges that lie ahead. Lead me down the path that I can do the most good for the most people. You know which I prefer but it does not matter. I put my trust and hope in you—always.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Steve rose from his kneeling position and scanned the room around him. The door to the black box had been opened again. Apparently ready for him and Addy to enter.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once again Steve scanned Addy, this time more slowly and carefully because he had no fear of being noticed. He looked at her meditative posture, cross legged, hands on her needs, palms up, breathing deeply. He was impressed by the calmness of her demeanor in an almost objectively stressful situation. He imagined that his posture looked more like the pleading of a man on his way to the gallows.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;He looked at her hands and noticed something alarming, a streak of blood came out of her sleeve and just barely on the visible skin on her wrist. He also noticed several scars on her neck and jaw. He was immediately sent off onto a new reason to be anxious about this choice that had to be made. He had never thought the other person joining him on the mission would be a cause for stress. Steven could always find the good in people and find common ground to make a friendship.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;What if this is the kind of person I can't become friends with. What if she is just bad to the core, but they find her necessary. Can I really spend the rest of my life with someone like that?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;As Steven worried about this, Addy continued her meditation. She began to tune our all of the sporadic noises filling the room. She did not want to completely block out all thought. She just wanted to find her inner calm enough to analyze the situation fully.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Satisfied with her state of mind she began to break do the decision she had to make (a decision she had already spent much time making in the previous months leading up to today) into its smallest elements.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The resistance I have or anyone has ever known it is over. It is suppressed and fully crushed. I don't agree with the fatalists that our end means the end of all hope of this state of the world being dismantled is over forever and that there is no good left to be had in the world of such control. Personal freedom has to still exist, even if it is only in the quiet of our minds, or in silent glances among friends.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I think that what I am good at no longer can be of much service to mankind as of the last few weeks. Leaving Earth will be easier for me than others because I have few connections to people and none are deep. All of mine have been taken from me.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;She had to consciously send the thoughts that welled up away to remain calm and focused.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;People I trust have told me they have faith in this idea, these scientists and this Steven character. If the organizers were prudent in their decision of choosing us we will work well together. We likely have complementary but not overlapping skills. So, for this to go well I am needed or at least someone like me is needed. There likely aren't many of me left or at least none other than me who still wish to fight or even know there is even a fight or that there ever was one. That all leads me to my original conclusion I am duty bound to do this. I don't know of another option that has a potential to bring about a better outcome for…&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Can I ask you a question?&quot; Steven asked interrupting Addy's meditation. &quot;It matters for my making my decision. To do this with you. I don't mean to disturb you or take these precious few moments you have to make this decision yourself. But the way I see it getting in that thing with you without knowing anything about you seems, well, it seems plain blocked headed if you ask me.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;I made my decision well before I met you. Ask away.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Oh yeah, we never actually introduced ourselves in the rush of this. It is very nice to meet you Addy. I'm Steven&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Addy nodded a small impatient nod in acknowledgment.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;Why are you doing this, or considering doing this? I don't mean why do things need to change, I mean why is it you are lying in that bed tube and not someone else.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Addy opened her eyes and took a deep breath, in that moment really and fully having made her decision to go, and said, &quot;I am going to get in that tube because people I trust have convinced me that it is the best way I can contribute, the only way left to contribute to dismantling the world order and world culture that has destroyed the people I have loved most and countless people I have not known. And you?&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;You said it better than I ever could. I am a soldier. I have been for a long time even though my face might look like I haven't been anything for very long. People I trust told me I am necessary or at least the best of who was available to them to do this work. They think as you said, this is the only option left. What makes you hesitate? What would you be leaving behind if you left?&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;I've lost almost everything and any hope of reclaiming them.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Vengeance then?&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;No, its…&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;That's all I need to know,&quot; Steven interrupted. &quot;Thank you,&quot; he said this with special care to sound sincere. &quot;Doctor, I am ready whenever you are.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Not quite yet,&quot; he replied, &quot;but I am glad you two are finding time to bond. It will be important in the beginning to have allegiance to each other at least in the beginning. For a time, it may seem like it is you two against the universe. I forgot to tell you, I have one other piece of equipment I have not briefed you about.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Handing each of them a watch he said, &quot;These watches will keep track of your age, since your actual birth as well as time spent not in dematerialization. I recommend you wear them always as you may lose track of time if you come in and out of the stasis state often. You will want to be able to keep track of your physical again and you won't be able to do it with a calendar anymore.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;They both put on their watches on their left wrists. Steve looked at Addy and said, well actually now that it won't be socially ostracizing to be left handed and cause for the cops to take a second look at me for standing out, I guess I can wear my watch on the wrist I'd prefer to wear it on.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Both the scientist and Addy smiled in response to what they could see was a liberating moment for Steven.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;Alright, strip naked, other than the watches of course, and get in the bed pods,&quot; the scientist said abruptly.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Both Addy and Steve shot a confused and nervous look at the scientist, Addy's having a little bit of agitation and distain.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;Your clothes are inefficient from a weight and utility perspective. The machine will supply you with suitable cloths upon landing.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;They all stood glancing at each other for a moment until the scientist clapped his hands mockingly and said, &quot;let's goooo, we don't have all day for this coy silliness.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;They both stripped quickly. Addy tried to do it as mechanically as possible. Steven tried to give it a bit of showmanship for any of those in the room who might be interested, hoping it would at least be amusing.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once they were naked the scientist said, &quot;I'd say thank you and wish you luck and have many colleagues shake your hand but we don't have time and I don't congratulate people for doing the right thing even If it takes extraordinary courage or effort. We live in an extraordinary time and it calls for extra-ordinary people.  Get in and I wish you much success.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;As he was about to step forward and get into the box a horrifying thought crossed Steven's mind and he blurted it out, &quot;What if when we come back humanity is gone?&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;On behalf of the humanity you are leaving behind I say this, if you manage to make it back and we are gone, do with Earth as your conscience tells you is best. It was never ours to begin with, but if there is anything worth having left, it's yours to take care of. And with that I feel I must say, get the &lt;em&gt;fuck&lt;/em&gt; in the box.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;And so, they did. Addy stepped in with Steven close behind. They laid down in their bed pods and closed them without looking at each other and clicked their black buttons. Addy clicked her yellow button as soon as her bed pod was closed. Steven hesitated for long enough for Addy to notice and to begin to be nervous he would not go through with it. But as soon as the though arose in her mind, she saw the LED lights flash above her prompting her to press the red button which she did without hesitation.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;They both quickly found themselves chemically immobilized and the scanner quickly did its work.&lt;/p&gt;
+</description>
+          <pubDate>2017-09-05T00:00:00-05:00</pubDate>
+          <link>/notes/chapter-2-companions</link>
+          <guid isPermaLink="true">/notes/chapter-2-companions</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Chapter 1 - The Black Box</title>
+          <description>&lt;p&gt;The black box stood ominously in the middle of the windowless, but well light room. Steven estimated it was a little less than twice his height and if he jumped he could probably reach the top.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The front side had a door that went two thirds of the way to the top. The only reason that door could be seen was because it was open. The rest of the box was flush-solid black with no visible signs of hinges, screws, rivets, or cracks.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Steven watched as one of the lab techs shut the door. The box seemed to absorb more light than it should, making the room, which was filled with florescent light, feel somehow dark.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;So, what are you guys building here. A bomb? It's not exactly my kind of mission nor my specialty,&quot; Stephen remarked unprompted.&lt;/p&gt;
+
+&lt;p&gt;&quot;No,&quot; replied the scientist, who had hurriedly greeted him some minutes ago, escorted him to where he now stood, then completely ignored him for some minutes.&lt;/p&gt;
+
+&lt;p&gt;&quot;Some other kind of weapon then?&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Never&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Steven counted the men and women in the room: three men and three women in lab coats and one in the black slacks, shirt and hat of the government military. Steven thought, &lt;em&gt;clearly, she was either a double agent working against the government or wore those cloths as a disguise, because if that weren't the case everyone here would already be in a black bag instead of dashing around a black box with tools and instruments.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;No one seemed to be paying the slightest attention to Steven. This sort of irked him, as he was told he was being pulled from his team for an important mission. He pushed down his pride and told himself that, as always, this wasn't about him. Anything he did was for a higher purpose and for his fellow men.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Eventually the scientist, still the only one having acknowledged his presence in the room, walked over and said:
+&quot;It looks like your companion is either late or otherwise detained, so, I will start briefing you now. You'll be responsible for giving her the full details when you both get uhhh,&quot; he paused quickly. Steven thought he was looked like he was trying to avoid certain words, &quot;settled. She has the high-level details of the mission. You've been, up to this point, kept in the dark for everyone's safety—including your own. You've been brought here because the resistance is defeated. Thoroughly and utterly. That is something you need to get used to as a fact of your existence.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Steven felt as though his heart had dropped into his stomach.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;The only reason we have held on this long is because we have played a gambit. We have made it seem as though we were trying to outlast them, play a long con as it were. We pretended to have more forces, more resources than we actually had. A plan that our top strategists believed couldn't have made it even seven more days without our bluff being called. Well, they called our bluff, and we will likely make it two days less than we thought.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;What about the other factions, in India and in Siberia?&quot;
+&quot;Gone&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Do the Southerners still make contact? Even though they hate us just as much as they hate anyone else?&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Swept away with the rest. Even your team broke communication and assimilated back into society. Under orders of course. No need to die senselessly since their cover was not blown.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;There is no resistance left?&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Save for you, me, those scuttling geniuses in the corner over there, our body guard, and maybe 3 or 4 people outside of this room, none. Well and of course your companion who should be on her way. This is the last mission of the resistance.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;So, what is it?&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;If you'd stop asking questions and interrupting, I will tell you. Nod to acknowledge and confirm your understanding.&quot;&lt;/p&gt;
+
+&lt;p&gt;Steven nodded.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;As I've said we held out so we could build this machine. Well really, steal a machine and modify it. But that is just semantics. What is it that we would give up the entire resistance for? Any sane person would ask that I'd think. Well the answer is simple. We didn't chose to give up the resistance for this machine. We chose our best choice of terrible options. We have not chosen how to win, we have chosen when to lose with the hope that years from now, our loss can help someone, anyone, in some way.&quot;&lt;/p&gt;
+
+&lt;p&gt;The scientist took a deep breath and continued:&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;How do I explain this to you so that you might have the vaguest idea of how it works. Well, you see, ummm, do you know of the teleports the government has?&quot;&lt;/p&gt;
+
+&lt;p&gt;Steven nodded.&lt;/p&gt;
+
+&lt;p&gt;&quot;Well we stole one. Nasty things. Never wanted to see one with my own eyes. They used the bodies of our compatriots as bio matter to aid in the transporting of more of their soldiers to the battle field—back when we had fighters enough to, to, to engage in something large scale enough to call a battle. What we've turned it into is a time machine of sorts.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;A time machine!?&quot; Steven blurted out.  &quot;Time travel is impossible. Every resistance kid is brought up on stories of resistance scientists sending soldiers back in time to stop the events that led to the government taking control. And every resistance adult eventually learns that the stories are never going to be more than that. Stories. The paradoxes can't be resolved. I've long since been a child—although my face might not show it. Going back in time isn't possible. This, this is why I was pulled from my team and&quot;&lt;/p&gt;
+
+&lt;p&gt;The scientist cut him off from his rant saying, &quot;Who said anything about going backward in time.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The two of them stared each other down for several moments.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;If you were paying attention, I told you that we are trying to give aid to the future, not to ourselves. Did you ever even hear the original oath of the resistance,&quot; the scientist said with scathing sarcasm.&lt;/p&gt;
+
+&lt;p&gt;All in the room stopped what they were doing and said in unison, &quot;I pledge myself to the future freedom of any and all. To their service, unknown to them, I give my life. Death will be my only freedom until all live free.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Steven's head drooped as he thought of all those who had &lt;em&gt;found their freedom&lt;/em&gt;, as it was commonly called, fighting alongside him.&lt;/p&gt;
+
+&lt;p&gt;&quot;So, I am going forward in time. To what end? What good is two people somewhere in the future where there is no resistance. The future where the world is filled with the sorry souls raised in the captivity of the kindergartens, without knowing the true meaning of the word freedom, or love, or humanity.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Precisely that, there will be two children of humanity, alive and well, who know of a life outside the one taught to them by oppression and misery.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;And what good is that? I can't start a resistance. Why the hell did you pick me? If you've talked to literally anyone who has even a passing familiarity with me, you'll know I am an idiot strategist. I am assuming you've talked to someone who fits that description, since I somehow find myself in this room talking to you.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;I'll address that first thought, as it is critical that you know it, you were selected for this mission carefully, intentionally, and although we didn't have a lot of options, I'm not sure we could have raised a better man for the job. However, it would take me far too long to explain why that is. So, I won't. Anyways, the advantage you will have is that there won't have been a resistance for 1000s of years. You will have been forgotten about completely. A distant memory long forgotten with countless other failed and destroyed things in human history like Babel, Troy, the Titanic, or Betamax tapes.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;What the hell is Troy?&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;You know what Betamax are, how? Doesn't matter. Just stories that will be forgotten in the end.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;Okay, so, you are sending me forward in time to start a new resistance. Any advice on how to do that?&quot; Steven said emphasizing the question with a slowed cadence in his voice.&lt;/p&gt;
+
+&lt;p&gt;&quot;You'll find a manual for you in the machine. You can read through that at a later date.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;How much later?&quot;&lt;/p&gt;
+
+&lt;p&gt;The scientist shrugged his shoulders and gave a playful smirk.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;This has been the least specific briefing I have ever had for a mission. No wonder it's going to be my last.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Well this whole thing has been improvised from the start. It is so half baked that. Again, I'm off topic with my jokes. Sorry.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;That puts me well at easy thank you. So how does it work? You mentioned a teleport. How is that going to move me forward in time.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Well it won't. Well, at least it won't move you any faster than you are already going. You're taking the long way to the future just like every other particle in the universe. The key difference between you and every other human is that you will be dematerialized as though you were going to go through a teleport, however, we aren't going to send the data and rematerialize you elsewhere. Were just going to save  you and all of your matter in the machine.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;And then what? Bury us underground somewhere and unearth us later?&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;My dear boy, you really aren't much of a strategist are you. That would be too hard to hide and cover up. Eventually we will all be found, tortured, and we'd give up your location. They'd dig you up and pull the machine apart. Well no, they would recycle the parts for some second-rate teleport in some regional capital.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The scientist looked at the machine with dread in his eyes at the thought of the machine being ripped apart for parts. He looked back at Steven and continued:&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;What we are going to do is rather more exciting. We are going to shoot you off into space,&quot; he said with a renewed gleeful tone.&lt;/p&gt;
+
+&lt;p&gt;&quot;Oh, yes, suuure, that's much more subtle.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Indeed, it is.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;How the hell are you going to shoot us off into space?&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The scientist gave out a roaring laugh, &quot;Any scientist with half a brain and the ability to make rocket fuel—so again a scientist with half a brain—can blast something into space. This machine is infinitely, well, much more complicated to pull off. However, this is no time for me to boast. Well it's the only time I have left so, yeah it was a feat of genius and the people in this room achieved something 100 years ahead of our time. So, yeah, you are welcome.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;What are you going to do after this rocket you send off gives away your position.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;After we give our position away—with tremendous style I might add,&lt;/p&gt;
+
+&lt;p&gt;&quot;And won't they just shoot us down.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;After we give away out position in tremendous style, they'll come and torture and kill those of us who remain. They will not shoot you down because they will never expect a rocket capable of reaching orbit launching out of the middle of a third-tier city. In their confusion, they will give you a head start enough to avoid the short-range rockets. A head start enough for you to reach escape velocity. Seeing your trajectory, they will see no need to shoot you down. They'll assign some poor government astrologist is to track you for years and years. However, they'll track you to Jupiter where you will fall behind the planet and, to them, appear to fall into its gravitational field and be lost forever. However, a booster rocket will divert your course just enough to slingshot you around the planet and send you to the outer solar system where you will gain a comet like orbit and come back to earth in the year 10404.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The idea that he could be alive—even while giving the scientist the benefit of the doubt for making it possible—seemed, to Steven, impossible to comprehend. He actively dismissed the confusion to be grappled with later.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;Okay, so why will they not be expecting me when I return since you are going to be tortured and killed.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Well I will give them a lie that they will prefer to the truth, because it coincide with how they see the world and would be a plan they would have used and one they would expect us to use. I will tell them we built a nuke &lt;em&gt;and__we fucked up the rocket science&lt;/em&gt;. I will have to do my best not to laugh my ass off telling that lie. I am great rocket scientist. Everyone in this room can do rocket science with a pad of paper and a dull pencil. Well except you of course.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;No shit.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;Anyway, they will find that all of my friends here have found their freedoms in the fire of the rocket as it bursts from this building. They will find me making a run for the border and they will catch me, drunk as can be on vodka I might add, because I spent my life in a lab, not running marathons. Also, not to mention that I want to get caught.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The room fell silent for a moment with the gravity of the idea that soon not one people that currently stood in the room would be alive or on this planet in a short few days.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;Why can't they run? Why can't they reassimilate?&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;We decided to cut some corners on automating the rocket launch that requires them to remain in the building—to speed up the timeline of the project. Time, we didn't exactly need. But we did speed up the timeline enough to let us take a day off and enjoy each other's company.&quot;&lt;/p&gt;
+
+&lt;p&gt;&quot;If it is suicide we'll let God be the judge. I myself prefer my odds at that than trying to reassimilate into these times,&quot; interjected one of the scientists in the corner typing at a computer keyboard.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;So, they are paying attention then.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;I have always felt the same. A verse from Romans 12 comes to mind. However, it is still suicide.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The scientist shrugged and went back to work at the computer.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;Anyway, they will take my lie,&quot; continued the scientist, &quot;and finding it satisfactory to their view of the world, they will dispatch of me and call it a triumphant day, the day they had wiped any resistance from their world.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Steven nodded his head several times thinking what to say in response, still a little overwhelmed by the whole situation. Changing the subject back to more practical matters he asked:&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;What do I need to know about this machine?&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&quot;Nothing really. It's all automated. When you are back on Earth, the machine will detect the gravity and rematerialize you. You'll…&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The scientist trailed off as the door opened behind Steven. Steven turned and saw a slender but fit woman dressed in government blacks. Steven quickly eyed her from her toned legs to her slim but curved chest to her short dark hair that just extended out the bottom of her black hat. He was struck by her harsh but beautiful facial features. Bright blue eyes beamed across the room and then sized Steven up as well.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Looking him dead in the eyes unblinkingly she said, &quot;Don't get any ideas. Just because were partners on this doesn't mean we're going to be partners in any other way. I already put the love of my life in the ground and my children were taken from me before I even named them. Somewhere they have grown to be children with ideals they never should have learned, taught to them by people they ought never have known. Try your best to keep your mind on more important things.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;And with that Steven put any thoughts of romance, lust, or anything of the sort away-sensing this woman was deadly serious about the matter.&lt;/p&gt;
+</description>
+          <pubDate>2017-09-04T00:00:00-05:00</pubDate>
+          <link>/notes/chapter-1-the-black-box</link>
+          <guid isPermaLink="true">/notes/chapter-1-the-black-box</guid>
+        </item>
+      
+    
   </channel>
 </rss>
