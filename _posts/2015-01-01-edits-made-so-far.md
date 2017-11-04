@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Edits Made So Far
 ---
 #Edits 
