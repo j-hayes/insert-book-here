@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Chapter 1 - The Black Box
 ---
 The black box stood ominously in the middle of the windowless, but well light room. Steven estimated it was a little less than twice his height and if he jumped he could probably reach the top.
