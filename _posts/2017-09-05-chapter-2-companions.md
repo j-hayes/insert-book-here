@@ -3,8 +3,6 @@ layout: page
 title: Chapter 2 - Companions
 ---
 
-# Chapter 2 – Companions
-
 &quot;Addy, welcome,&quot; the scientist began. &quot;Your reputation precedes you, so we won&#39;t delay with pleasantries and get right down to business.&quot;
 
 &quot;Thank you,&quot; she replied.

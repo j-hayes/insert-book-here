@@ -2,8 +2,6 @@
 layout: page
 title: Chapter 4 - Landed
 ---
-# Chapter 4 – Landed
-
 In unison, the bed pods opened. Addy and Steve sat up slowly, the paralytic still wearing off. They each looked at each other and then their watches. The readout was exactly as they had when they had laid down: Steven&#39;s 22.1 above another 22.1, Addy&#39;s 31.7 over above another 31.7. They were both confused.
 
 <br/>
