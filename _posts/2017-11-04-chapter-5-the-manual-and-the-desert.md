@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Chapter 5 - The Manual And The Desert
 ---
 
